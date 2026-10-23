@@ -1,0 +1,5 @@
+.venv/
+data/raw/
+db/
+models/
+__pycache__/
